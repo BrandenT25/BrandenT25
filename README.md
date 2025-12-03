@@ -33,5 +33,5 @@ I'm currently co-founding **Cognest**, a productivity startup focused on transfo
 *Expected Graduation: May 2029 | GPA: 3.7*
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandent25)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandent25&layout=compact)
 
