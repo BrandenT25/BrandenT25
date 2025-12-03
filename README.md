@@ -33,5 +33,6 @@ I'm currently co-founding **Cognest**, a productivity startup focused on transfo
 *Expected Graduation: May 2029 | GPA: 3.7*
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandent25&layout=compact)
-
+![Python](https://img.shields.io/badge/Python-45%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-25%25-blue)
